@@ -1,2 +1,2 @@
 # openCV
-for my job/ Recogniztion ECU in the box
+for my job. Recogniztion ECU in the box
